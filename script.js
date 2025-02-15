@@ -25,7 +25,8 @@ console.log('Sum of Numbers:', sum);
 
 // Objective: The aim of this assignment is to acquaint students with various string manipulation techniques in JavaScript, including string length, case conversion, substring extraction, and string splitting.
 
-// Problem Statement: You are tasked with creating a JavaScript program that demonstrates different string manipulation operations. The program should cover obtaining the length of a string, converting cases (upper and lower), extracting substrings, and splitting strings based on a delimiter.
+// Problem Statement: You are tasked with creating a JavaScript program that demonstrates different string manipulation operations. 
+// The program should cover obtaining the length of a string, converting cases (upper and lower), extracting substrings, and splitting strings based on a delimiter.
 
 // Task 1: Obtaining String Length
 let message = "Hello, World!";
